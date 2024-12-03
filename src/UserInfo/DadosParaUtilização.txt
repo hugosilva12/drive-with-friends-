@@ -1,0 +1,7 @@
+###Users
+user:hugo  pass :123 -> amigo de Bia
+user:bia  pass :123 -> amigo  de Hugo
+user:rafael  pass :123 -> está a mais de um 1 km de hugo e bia mas no raio de 30kms
+user:mariana  pass :123 -> está a  40 kms de hugo e bia, e a +- 30 de rafael, é amiga de rafael e recebe notificações a 50km
+
+hugo recebe report incidentes vila real e amarante;
